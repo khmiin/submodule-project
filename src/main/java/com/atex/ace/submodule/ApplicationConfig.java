@@ -1,5 +1,5 @@
 package com.atex.ace.submodule;
 
 public class ApplicationConfig {
-    public static final String VERSION = "0.0.2";
+    public static final String VERSION = "v1-0.0.1";
 }
